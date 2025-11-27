@@ -21,14 +21,8 @@ This project solves the need for a **lightweight daily planner** that focuses on
 4. **Persistent Storage** – All tasks are saved locally using `SharedPreferences`, ensuring they remain after app restarts.  
 5. **Compose UI** – A clean, modern interface built with Jetpack Compose for smooth user interaction.  
 
-<p align="center">
-  <img width="250" height="600" alt="Screenshot 2025-11-27 162150" 
-       src="https://github.com/user-attachments/assets/455ffe61-c223-453e-8c86-f4497f2fad65" 
-       style="margin-right: 20px;" />
-
-  <img width="250" height="600" alt="Screenshot 2025-11-27 162213" 
-       src="https://github.com/user-attachments/assets/0ee50ce0-5a65-44d9-8644-d31e5165ebd2" />
-</p>
+<img width="250" height="600" alt="Screenshot 2025-11-27 162150" src="https://github.com/user-attachments/assets/455ffe61-c223-453e-8c86-f4497f2fad65" style="margin-right: 20px;" />
+<img width="250" height="600" alt="Screenshot 2025-11-27 162213" src="https://github.com/user-attachments/assets/0ee50ce0-5a65-44d9-8644-d31e5165ebd2" />
 
 ---
 
